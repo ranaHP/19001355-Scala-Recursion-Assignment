@@ -1,0 +1,135 @@
+[0m2021.07.18 19:44:35 INFO  Started: Metals version 0.10.5 in workspace 'E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.18 19:44:35 INFO  time: initialize in 0.41s[0m
+[0m2021.07.18 19:44:36 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.18 19:44:36 WARN  no build tool detected in workspace 'E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.18 19:44:37 WARN  no build target for: E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment\Q6.scala[0m
+Jul 18, 2021 7:44:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.07.18 19:44:39 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.18 19:44:41 INFO  time: code lens generation in 3.78s[0m
+[0m2021.07.18 19:48:15 INFO  shutting down Metals[0m
+[0m2021.07.18 19:59:31 INFO  Started: Metals version 0.10.5 in workspace 'E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.18 19:59:32 INFO  time: initialize in 1.04s[0m
+[0m2021.07.18 19:59:34 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.18 19:59:34 WARN  no build tool detected in workspace 'E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.18 19:59:34 WARN  no build target for: E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment\Q6.scala[0m
+[0m2021.07.18 19:59:34 WARN  no build target for: E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment\Q1.scala[0m
+[0m2021.07.18 19:59:38 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.18 19:59:43 WARN  no build target for: E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment\Q1.scala[0m
+[0m2021.07.18 19:59:43 INFO  time: code lens generation in 1.41s[0m
+[0m2021.07.18 19:59:43 INFO  time: code lens generation in 2.31s[0m
+[0m2021.07.18 19:59:43 INFO  time: code lens generation in 2.9s[0m
+[0m2021.07.18 19:59:43 INFO  time: code lens generation in 8.28s[0m
+[0m2021.07.18 20:00:02 WARN  no build target for: E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment\Q1.scala[0m
+[0m2021.07.18 20:00:39 WARN  no build target for: E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment\Q2.scala[0m
+[0m2021.07.18 20:01:23 WARN  no build target for: E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment\Q3.scala[0m
+[0m2021.07.18 20:02:02 WARN  no build target for: E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment\Q4.scala[0m
+[0m2021.07.18 20:03:00 WARN  no build target for: E:\Academic\2nd Year\1st Semester\SCS2204 Functional Programming\Assignments\Recursion Assignment\Q5.scala[0m
+Jul 18, 2021 8:03:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+Jul 18, 2021 8:04:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.07.18 22:44:57 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.18 22:44:57 INFO  time: initialize in 0.51s[0m
+[0m2021.07.18 22:45:02 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.18 22:45:02 WARN  no build tool detected in workspace 'C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.18 22:45:02 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:45:07 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.18 22:45:10 INFO  time: code lens generation in 4.87s[0m
+[0m2021.07.18 22:45:10 INFO  time: code lens generation in 1.57s[0m
+[0m2021.07.18 22:45:10 INFO  time: code lens generation in 5.46s[0m
+[0m2021.07.18 22:45:10 INFO  time: code lens generation in 7.25s[0m
+[0m2021.07.18 22:45:10 INFO  time: code lens generation in 7.27s[0m
+[0m2021.07.18 22:45:10 INFO  time: code lens generation in 7.35s[0m
+[0m2021.07.18 22:45:10 INFO  time: code lens generation in 7.37s[0m
+[0m2021.07.18 22:45:10 INFO  time: code lens generation in 7.4s[0m
+[0m2021.07.18 22:46:27 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:46:39 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:46:51 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:46:52 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:46:52 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:46:52 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:46:52 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:47:13 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:47:35 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+[0m2021.07.18 22:47:35 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q1.scala[0m
+Jul 18, 2021 10:47:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 293
+[0m2021.07.18 22:47:40 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question1.scala[0m
+[0m2021.07.18 22:47:46 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q2.scala[0m
+[0m2021.07.18 22:47:53 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q2.scala[0m
+[0m2021.07.18 22:47:53 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q3.scala[0m
+[0m2021.07.18 22:47:59 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q3.scala[0m
+[0m2021.07.18 22:47:59 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q4.scala[0m
+[0m2021.07.18 22:48:03 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q4.scala[0m
+[0m2021.07.18 22:48:03 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q5.scala[0m
+[0m2021.07.18 22:48:07 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q5.scala[0m
+[0m2021.07.18 22:48:07 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q6.scala[0m
+[0m2021.07.18 22:48:11 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q6.scala[0m
+Jul 18, 2021 10:48:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 379
+Jul 18, 2021 10:48:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 385
+[0m2021.07.18 22:48:16 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question1.scala[0m
+[0m2021.07.18 22:48:16 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question1.scala[0m
+Jul 18, 2021 10:48:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 398
+Jul 18, 2021 10:48:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 408
+Jul 18, 2021 10:48:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 415
+[0m2021.07.18 22:48:39 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q2.scala[0m
+[0m2021.07.18 22:48:39 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q2.scala[0m
+Jul 18, 2021 10:48:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 456
+[0m2021.07.18 22:48:44 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question2.scala[0m
+[0m2021.07.18 22:49:04 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q3.scala[0m
+[0m2021.07.18 22:49:04 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q3.scala[0m
+Jul 18, 2021 10:49:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 539
+[0m2021.07.18 22:49:09 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question3.scala[0m
+Jul 18, 2021 10:49:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 545
+[0m2021.07.18 22:49:16 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q4.scala[0m
+[0m2021.07.18 22:49:16 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q4.scala[0m
+Jul 18, 2021 10:49:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 575
+[0m2021.07.18 22:49:20 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question4.scala[0m
+[0m2021.07.18 22:49:29 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question4.scala[0m
+[0m2021.07.18 22:49:36 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question4.scala[0m
+[0m2021.07.18 22:49:36 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question4.scala[0m
+[0m2021.07.18 22:49:36 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question4.scala[0m
+Jul 18, 2021 10:49:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 629
+[0m2021.07.18 22:49:41 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q5.scala[0m
+[0m2021.07.18 22:49:43 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q5.scala[0m
+[0m2021.07.18 22:49:43 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q5.scala[0m
+[0m2021.07.18 22:49:45 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q5.scala[0m
+[0m2021.07.18 22:49:45 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q5.scala[0m
+[0m2021.07.18 22:49:51 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q5.scala[0m
+Jul 18, 2021 10:49:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 689
+[0m2021.07.18 22:49:57 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question5.scala[0m
+Jul 18, 2021 10:49:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 695
+[0m2021.07.18 22:50:00 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q6.scala[0m
+[0m2021.07.18 22:50:03 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q6.scala[0m
+[0m2021.07.18 22:50:05 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q6.scala[0m
+[0m2021.07.18 22:50:05 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Q6.scala[0m
+Jul 18, 2021 10:50:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 723
+[0m2021.07.18 22:50:09 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question6.scala[0m
+[0m2021.07.18 22:50:12 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question6.scala[0m
+[0m2021.07.18 22:50:12 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question6.scala[0m
+[0m2021.07.18 22:50:12 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question6.scala[0m
+[0m2021.07.18 22:50:12 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question6.scala[0m
+[0m2021.07.18 22:50:12 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question6.scala[0m
+[0m2021.07.18 22:50:20 INFO  shutting down Metals[0m
+[0m2021.07.18 22:50:40 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.18 22:50:40 INFO  time: initialize in 0.44s[0m
+[0m2021.07.18 22:50:40 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.18 22:50:40 WARN  no build tool detected in workspace 'C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.18 22:50:40 WARN  no build target for: C:\Users\hansana\Downloads\19000782-Scala-Recursion-Assignment-master\19000782-Scala-Recursion-Assignment-master\Question6.scala[0m
+[0m2021.07.18 22:50:43 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.18 22:50:46 INFO  time: code lens generation in 4.44s[0m
+[0m2021.07.18 22:52:42 INFO  shutting down Metals[0m
